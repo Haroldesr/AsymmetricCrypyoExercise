@@ -1,0 +1,1 @@
+Este es un mensaje de prueba para cifrado híbrido (AES-GCM + RSA-OAEP).
